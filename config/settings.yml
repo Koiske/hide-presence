@@ -1,0 +1,3 @@
+plugins:
+  disable_hide_presence_enabled:
+    default: true
